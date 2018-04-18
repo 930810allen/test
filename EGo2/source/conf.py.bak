@@ -137,8 +137,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'EGo2.tex', u'EGo2 Documentation',
-     u'allen', 'manual'),
+    (master_doc, 'sphinx.tex', u'EGo2 Documentation',
+     u'e-elements', 'manual'),
 ]
 
 
